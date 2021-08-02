@@ -19,3 +19,5 @@ module.exports = function(obj, ...props) {
   
   return null;
 };
+
+// export PATH="${PATH}:/usr/local/mysql/bin/"
